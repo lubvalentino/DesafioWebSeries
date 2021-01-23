@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_button">50dp</dimen>
+    <dimen name="margin_top_button">10dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="size_image">200dp</dimen>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="description_size">16sp</dimen>
+    <dimen name="size_poster_detail">130dp</dimen>
+    <dimen name="margin_title_list">12dp</dimen>
+    <dimen name="size_title_list">12sp</dimen>
+</resources>
